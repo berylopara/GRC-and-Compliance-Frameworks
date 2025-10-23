@@ -12,12 +12,13 @@ It demonstrates understanding of frameworks such as **NIST, ISO 27001, GDPR, HIP
 
 ---
 
-## 📄 PDF Report
-Click below to open the full report:
+## 📄 PDF Report (Embedded View)
 
-👉 [**GRC_Framework_Summary_Beryl_Amondi_Opara.pdf**](./GRC_Framework_Summary_Beryl_Amondi_Opara.pdf)
+<embed src="./GRC_Framework_Summary_Beryl_Amondi_Opara.pdf" type="application/pdf" width="100%" height="600px" />
 
-Or view it directly inside GitHub (it may open in your browser depending on settings).  
+If the embedded view doesn’t appear on your device, you can open or download it using the link below 👇  
+
+[📂 **Open Full GRC Framework Report (PDF)**](./GRC_Framework_Summary_Beryl_Amondi_Opara.pdf)
 
 ---
 
@@ -45,4 +46,4 @@ This project demonstrates practical knowledge of global cybersecurity compliance
 
 ---
 
-> 📎 *For a full visual summary, open the PDF linked above.*
+> 📎 *For a full visual summary, scroll up to view or download the embedded PDF.*
